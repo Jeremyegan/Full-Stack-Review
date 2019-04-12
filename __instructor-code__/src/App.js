@@ -4,7 +4,6 @@ import { HashRouter, Route, Switch } from 'react-router-dom';
 import Login from './components/Login/Login';
 import Private from './components/Private/Private';
 
-
 class App extends Component {
   render() {
     return (
